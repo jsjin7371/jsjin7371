@@ -43,7 +43,12 @@
 
 </br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jsjin7371)](https://solved.ac/jsjin7371/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsjin7371&layout=compact&theme=dark) 
+
+</br>
+
+
+</br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&section=footer"/>
 
