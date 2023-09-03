@@ -36,13 +36,19 @@
 ## **📉 My Stats 📈**
 </br>
 
+<p>GitHub</p>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsjin7371&show_icons=true&theme=transparent)
 
 </br>
 
+<p>Languages</p>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsjin7371&layout=compact&theme=dark) 
 
 </br>
+
+<p>Baekjoon</p>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jsjin7371)](https://solved.ac/jsjin7371/)
 
