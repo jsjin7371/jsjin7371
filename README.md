@@ -1,8 +1,23 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&section=header&text=Jsjin&fontColor=ffffff)
+<div align="center"> 
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&section=header&text=Jsjin&fontColor=cccccc)
+
+</br>
+
+<h3 align="center"><b> Social  </b></h3>
+
+</br>
+
+<a href="mailto:jsjin7371@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jsjin7371@gmail.com"/></a>
+<a href="https://jsjin.tistory.com/"><img src="http://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white&link=https://jsjin.tistory.com/"/></a>
+
+</br>
+</br>
 
 <h3 align="center"><b>📚 Things I've Used 📚</b></h3>
+
 </br>
-<p align="center">
+
 <!--dart-->
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=flutter&logoColor=white"/>
 <!--flutter-->
@@ -15,4 +30,15 @@
 <img src="https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=white"/>
 <!--firebase-->
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
-</p>
+
+</br>
+</br>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsjin7371&show_icons=true&theme=transparent)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jsjin7371)](https://solved.ac/jsjin7371/)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&section=footer"/>
+
+</div>
