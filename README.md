@@ -4,8 +4,7 @@
 
 </br>
 
-<h3 align="center"><b>✉️ Social ✉️</b></h3>
-
+## **✉️ Social ✉️**
 </br>
 
 <a href="mailto:jsjin7371@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jsjin7371@gmail.com"/></a>
@@ -14,8 +13,7 @@
 </br>
 </br>
 
-<h3 align="center"><b>📚 Things I've Used 📚</b></h3>
-
+## **📚 Things I've Used 📚**
 </br>
 
 <!--dart-->
@@ -35,8 +33,7 @@
 </br>
 </br>
 
-<h3 align="center"><b>📉 My Stats 📈</b></h3>
-
+## **📉 My Stats 📈**
 </br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsjin7371&show_icons=true&theme=transparent)
