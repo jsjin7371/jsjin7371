@@ -1,10 +1,10 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&section=header&text=Jsjin&fontColor=cccccc)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&section=header&text=Jsjin&fontColor=feffff)
 
 </br>
 
-<h3 align="center"><b> Social  </b></h3>
+<h3 align="center"><b>✉️ Social ✉️</b></h3>
 
 </br>
 
@@ -33,9 +33,15 @@
 
 </br>
 </br>
+</br>
 
+<h3 align="center"><b>📉 My Stats 📈</b></h3>
+
+</br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsjin7371&show_icons=true&theme=transparent)
+
+</br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jsjin7371)](https://solved.ac/jsjin7371/)
 
