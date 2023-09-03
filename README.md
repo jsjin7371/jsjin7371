@@ -41,6 +41,9 @@
 <p>President of Hanmin Engenius (2020~2021)</p>
 <p>Kyonggi University Department of Computer Engineering (2023~)</p>
 
+</br>
+</br>
+
 
 ## **📉 My Stats 📈**
 </br>
