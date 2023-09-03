@@ -1,7 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Jsjin&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&section=header&text=Jsjin&fontColor=ffffff)
 
-
-<div align="center">
+<h3 align="center"><b>📚 Languages 📚</b></h3>
+</br>
+<p align="center">
 <!--dart-->
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=flutter&logoColor=white"/>
 <!--flutter-->
@@ -14,5 +15,4 @@
 <img src="https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=white"/>
 <!--firebase-->
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
-</div>
-
+</p>
