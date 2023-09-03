@@ -33,6 +33,15 @@
 </br>
 </br>
 
+## **📋 Career 📋**
+</br>
+
+<p>Kimhwa Middle School (2017~2019)</p>
+<p>Hanmin High School (2020~2022)</p>
+<p>President of Hanmin Engenius (2020~2021)</p>
+<p>Kyonggi University Department of Computer Engineering (2023~)</p>
+
+
 ## **📉 My Stats 📈**
 </br>
 
