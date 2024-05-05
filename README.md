@@ -24,6 +24,8 @@
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
 <!--Python-->
 <img src="https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=white"/>
+<!--JS-->
+<img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
 
 </br>
 
