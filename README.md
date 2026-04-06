@@ -54,6 +54,8 @@
 <p>청소년과학탐구대회 YSC(Youth Science Club) 은상 (2020) - 팀원</p>
 <p>청소년과학탐구대회 YSC(Youth Science Club) 은상 (2021) - 팀장</p>
 <p>Kyonggi University Department of Computer Engineering (2023~)</p>
+<p>Republic of Korea Army (Corps Level) - 모범용사상(군단장급) (2025)</p>
+<p>Republic of Korea Army (Corps Level) - 육군용사상(군단장급) (2026)</p>
 
 </br>
 </br>
