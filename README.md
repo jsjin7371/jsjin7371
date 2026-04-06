@@ -48,7 +48,6 @@
 ## **📋 Career 📋**
 </br>
 
-<p>Kimhwa Middle School (2017~2019)</p>
 <p>Hanmin High School (2020~2022)</p>
 <p>President of Hanmin Engenius (2020~2021)</p>
 <p>청소년과학탐구대회 YSC(Youth Science Club) 은상 (2020) - 팀원</p>
